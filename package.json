@@ -1,0 +1,14 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "scripts": {
+    "zenn:new": "zenn new:article",
+    "zenn:preview": "zenn preview"
+  },
+  "author": "0xPokotaro",
+  "license": "MIT",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
