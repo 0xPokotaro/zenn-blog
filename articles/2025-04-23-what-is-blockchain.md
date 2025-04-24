@@ -3,7 +3,7 @@ title: "【初心者向け】ブロックチェーンとは？仕組みから未
 emoji: "⛓️"
 type: "tech"
 topics: ["blockchain", "暗号資産", "XRPLedger"]
-published: false
+published: true
 ---
 
 # 【初級編】ブロックチェーンとは
