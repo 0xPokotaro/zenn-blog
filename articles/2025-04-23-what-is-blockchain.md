@@ -1,5 +1,5 @@
 ---
-title: "【初心者向け】ブロックチェーンとは"
+title: "【初級編】ブロックチェーンとは"
 emoji: "⛓️"
 type: "tech"
 topics: ["blockchain", "暗号資産", "XRPLedger"]
