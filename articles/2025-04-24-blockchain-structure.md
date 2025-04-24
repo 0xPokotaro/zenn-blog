@@ -1,5 +1,5 @@
 ---
-title: "【初心者向け】ブロックチェーンの仕組み"
+title: "【初級編】ブロックチェーンの仕組み"
 emoji: "⛓️"
 type: "tech"
 topics: ["blockchain", "web3", "暗号資産", "bitcoin", "ethereum"]
@@ -7,6 +7,9 @@ published: true
 ---
 
 # 【初級編】　ブロックチェーンの仕組み
+
+- [【初級編】ブロックチェーンとは？](https://zenn.dev/pokotarooo/articles/2025-04-24-blockchain-structure)
+- [【初級編】　ブロックチェーンの仕組み](https://zenn.dev/pokotarooo/articles/2025-04-24-blockchain-structure)
 
 ## 🎯 対象読者
 
