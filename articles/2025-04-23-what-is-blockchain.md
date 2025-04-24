@@ -1,5 +1,5 @@
 ---
-title: "【初心者向け】ブロックチェーンとは？仕組みから未来まで完全解説"
+title: "【初心者向け】ブロックチェーンとは？"
 emoji: "⛓️"
 type: "tech"
 topics: ["blockchain", "暗号資産", "XRPLedger"]
