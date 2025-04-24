@@ -1,12 +1,12 @@
 ---
-title: "【初心者向け】ブロックチェーンとは？仕組みから未来まで完全解説"
+title: "【初心者向け】ブロックチェーンの仕組み"
 emoji: "⛓️"
 type: "tech"
 topics: ["blockchain", "web3", "暗号資産", "bitcoin", "ethereum"]
 published: false
 ---
 
-# 【初級編】ブロックチェーンの仕組み
+# 【初級編】　ブロックチェーンの仕組み
 
 ## 🎯 対象読者
 
