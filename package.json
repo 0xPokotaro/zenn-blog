@@ -9,6 +9,6 @@
   "license": "MIT",
   "packageManager": "yarn@4.9.1",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.1.162"
   }
 }
