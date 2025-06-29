@@ -1,8 +1,9 @@
 title: "XRP Ledger開発の教科書"
-summary: "XRP Ledger開発の教科書"
+summary: "XRP Ledger開発の教科書です。"
 topics: ["XRPL", "開発", "教科書"]
 published: false
 price: 0 # 有料の場合200〜5000
+toc_depth: 3
 chapters:
   - book_01_01
   - book_01_02
