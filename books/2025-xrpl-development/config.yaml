@@ -5,5 +5,6 @@ published: false
 price: 0 # 有料の場合200〜5000
 toc_depth: 3
 chapters:
-  - book_01_01
-  - book_01_02
+  - 01.introduction
+  - 02.what-is-blockchain
+  - 03.how-dapp-works
