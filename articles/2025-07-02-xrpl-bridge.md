@@ -95,13 +95,14 @@ https://app.squidrouter.com/
 #### ブリッジのステップ
 
 1. XRPL から XRPL EVM へ XRPをブリッジを実行
-2. XRPL上の Gateway wallet（[rfmS3zqrQrka8wVyhXifEeyTwe8AMz2Yhw](https://livenet.xrpl.org/accounts/rfmS3zqrQrka8wVyhXifEeyTwe8AMz2Yhw)）へ送金
-    - Payment Transactionのメモにブリッジ情報を指定
-    - [AXELAR - Chains](https://axelarscan.io/resources/chains) から対応しているウォレットの確認が可能
+2. Payment Transactionで、XRPL上のGateway wallet（[rfmS3zqrQrka8wVyhXifEeyTwe8AMz2Yhw](https://livenet.xrpl.org/accounts/rfmS3zqrQrka8wVyhXifEeyTwe8AMz2Yhw)）へ送金
+    - Payment Transactionのメモ欄にブリッジ情報を指定
 3. Gateway walletがAxelarに通知
 4. Axelarチェーンのバリデーターが検証・合意してメッセージを承認
 5. 承認されたメッセージが送信先チェーンのGatewayに通知
-6. 送信先チェーン（XRPL EVM）で **トークンがMint（発行）** される
+6. 送信先チェーン（XRPL EVM）で トークンがMint（発行）される
+
+※ [AXELAR - Chains](https://axelarscan.io/resources/chains) から対応しているウォレットの確認が可能
 
 #### イメージ図
 
