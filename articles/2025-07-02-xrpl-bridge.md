@@ -102,7 +102,7 @@ https://app.squidrouter.com/
 5. 承認されたメッセージが送信先チェーンのGatewayに通知
 6. 送信先チェーン（XRPL EVM）で トークンがMint（発行）される
 
-※ [AXELAR - Chains](https://axelarscan.io/resources/chains) から対応しているウォレットの確認が可能
+※ [AXELAR - Chains](https://axelarscan.io/resources/chains) から対応しているGateway walletの確認が可能
 
 #### イメージ図
 
